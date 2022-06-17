@@ -1,0 +1,50 @@
+body{
+    background-color: antiquewhite;
+    margin: 0px;
+    font-family: Tahoma;
+}
+.secao{
+    text-align: center;
+    margin: 20px auto;
+    width: 700px;
+}
+.imagem-logo{
+    width: 200px;
+}
+a{
+    padding: 20px;
+    color: brown;
+}
+h1{
+    border-top: 2px solid orange;
+    padding-top: 20px;
+    margin: 0px auto;
+}
+h2{
+    color: orange;
+    font-weight: normal;
+}
+.imagem-frente{
+    width: 700px;
+}
+h3{
+    font-size: 24px;
+}
+h4{
+    font-size: 20px;
+}
+.secao-produtos{
+    background-color: orange;
+    color: white;
+    padding: 15px;
+    width: 670px;
+}
+.imagem-pao{
+    width: 400px;
+}
+.imagem-bolo{
+    width: 400px;
+}
+span{
+    font-weight: bold;
+}
